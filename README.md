@@ -1,4 +1,4 @@
-# Power-Bi Projects
+# Sales Analysis
 <h1 align="center">Sales Dashboard</h1>
 Analyze and visualize the sales data using Power Bi .
 <li>Visualize the sales by region.
